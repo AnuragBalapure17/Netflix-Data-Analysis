@@ -1,6 +1,8 @@
 # Netflix-Data-Analysis
 Netflix Data Analysis Using Python
+
 📊 Netflix Movie Data Analysis Project
+
 📌 Project Overview
 This project explores Netflix movie data using data science and analytics techniques. With a dataset of over 9,000 movies, the goal is to uncover insights into genres, popularity, voting trends, and yearly release patterns.
 
